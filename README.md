@@ -36,6 +36,13 @@ Check your tasks under `/admin/statuscheck/periodictasks/` (if you configured yo
 
 You can also find a link in `/admin` sidebar.
 
+How you admin page will look like:
+[[https://github.com/vintasoftware/django-celerybeat-status/blob/master/README_IMAGES/django-celerybeat-status-admin.png|alt=admin-page]]
+
+
+How your tasks will be shown:
+[[https://github.com/vintasoftware/django-celerybeat-status/blob/master/README_IMAGES/django-celerybeat-status-admin.png|alt=tasks-page]]
+
 
 ## Commercial Support
 
